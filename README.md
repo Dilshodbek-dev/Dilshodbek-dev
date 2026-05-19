@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋;I'm+Dilshodbek;Java+Full+Stack+Developer" />
 </h1>
@@ -45,6 +44,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
